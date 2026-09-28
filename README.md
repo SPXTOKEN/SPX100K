@@ -32,7 +32,7 @@ Developers may explore opportunities for decentralized applications, payment fun
 
 Participation does not require financial involvement. Individuals should evaluate any digital asset project independently and consider their own knowledge, circumstances, and risk tolerance before taking action.
 
-As SPX100K continues to develop, additional features or participation opportunities may become available through official channels. New functionality should always be evaluated using published documentation and verified announcements rather than unofficial claims.
+As $SPX100K$ continues to develop, additional features or participation opportunities may become available through official channels. New functionality should always be evaluated using published documentation and verified announcements rather than unofficial claims.
 
 ## Getting Started
 
